@@ -1,0 +1,14 @@
+.description[_ngcontent-dcy-2]{
+    color: orange;
+    font-size: small;
+  }
+  .price[_ngcontent-dcy-2]{
+    font-weight: bold;
+  }
+  .featured {
+background: #57595D;
+-webkit-border-image: -webkit-linear-gradient(right, #818fd8 0%, #cbb4e2 50%, #a6f2f5 100%);
+-o-border-image: linear-gradient(to left, #818fd8 0%, #cbb4e2 50%, #a6f2f5 100%);
+border-image: linear-gradient(to left, #818fd8 0%, #cbb4e2 50%, #a6f2f5 100%);
+border-image-slice: 1;
+}

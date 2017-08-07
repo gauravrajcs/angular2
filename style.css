@@ -1,0 +1,66 @@
+/* Master Styles */
+h1 {
+  color: #369; 
+  font-family: Arial, Helvetica, sans-serif;   
+  font-size: 250%;
+}
+h2, h3 { 
+  color: green;
+  font-family: Arial, Helvetica, sans-serif;   
+  font-weight: lighter;
+}
+p{
+  color: violet;
+  font-family: Arial, Helvetica, sans-serif; 
+
+}
+html, body { 
+  margin: 0; padding: 0; 
+}
+body, input[text], button { 
+  color: #888; 
+  font-family: Cambria, Georgia; 
+}
+.bodyWrap {
+  background-color: #600080;
+  padding: 60px 50px;
+}
+.clear { clear: both; }
+.card {
+  background-color: #686868;
+  margin-bottom: 10px;
+}
+.imgThumb {
+  float: left;
+}
+.imgThumb img {
+  width:200px;
+  height: 200px;
+}
+.data {
+  float: left;
+  margin-left: 20px;
+  margin-top: 60px;
+}
+.title { color: #fff; }
+.subTitle { color: purple; }
+.inventory { color: blue; }
+.price {
+  margin-top: 80px;
+  float: right;
+  margin-right: 100px;
+  color: blue;
+}
+.selectQuantity {
+  margin-top: 80px;
+  float: right;
+  margin-right: 80px;
+}
+.increase {
+  background-color: black;
+  
+}
+.decrease {
+  background-color: black;
+}
+
